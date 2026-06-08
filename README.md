@@ -1,8 +1,8 @@
-Product Image Optimizer
+# Product Image Optimizer
 
 A Python tool for ecommerce sellers that prepares product images for online marketplaces.
 
-Features
+## Features
 
 - Bulk image processing
 - Marketplace presets (Daraz, Amazon, Shopify)
@@ -14,12 +14,12 @@ Features
 - Storage savings report
 - Supports JPG, PNG, WEBP, and BMP files
 
-Built With
+### Built With
 
 - Python
 - Pillow (PIL)
 
-How It Works
+### How It Works
 
 1. Upload product images.
 2. Select a marketplace preset.
@@ -27,20 +27,20 @@ How It Works
 4. Optionally create square images with a white background.
 5. Download a ZIP file containing the processed images.
 
-Example Use Cases
+### Example Use Cases
 
 - Ecommerce product listings
 - Marketplace image preparation
 - Product catalog optimization
 - Bulk image resizing and compression
 
-Example Output
+### Example Output
 
 The screenshot below shows the tool processing multiple product images and generating a ZIP file with optimized results.
-## Screenshot
 
-![Tool Output](tool-output.jpg)
+ **Screenshot**
 
-Author
+ ![Tool Output](tool-output.jpg)
+---
 
-Created by um3rx
+*Created by um3rx*
