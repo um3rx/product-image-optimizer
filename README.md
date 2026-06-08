@@ -40,7 +40,6 @@ The screenshot below shows the tool processing multiple product images and gener
 ## Screenshot
 
 ![Tool Output](tool-output.jpg)
-"Tool Output" (tool-output.jpg)
 
 Author
 
