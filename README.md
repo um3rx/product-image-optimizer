@@ -34,6 +34,14 @@ Example Use Cases
 - Product catalog optimization
 - Bulk image resizing and compression
 
+Example Output
+
+The screenshot below shows the tool processing multiple product images and generating a ZIP file with optimized results.
+## Screenshot
+
+![Tool Output](tool-output.jpg)
+"Tool Output" (tool-output.jpg)
+
 Author
 
 Created by um3rx
